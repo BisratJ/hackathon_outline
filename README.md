@@ -158,19 +158,8 @@ npx vercel --prod
 ## 👥 Team
 
 ### Judges
-- Kibrnew Gedamu
-- Solomon Abate
-- Eyouel Melkamu
-
 ### Organizers
-- Kidus Guade
-- Estifanos FikereMariam
-- Mikiyas Alemu
-- Bisrat Ashagre
-- Ermias Ayele
-- Abenezer Workneh
-- Abenezer Mulugeta
-- Nardos Wehabe
+
 
 ## 📄 License
 
