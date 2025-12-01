@@ -1,0 +1,40 @@
+:root {
+  /* Colors - Enhanced Palette */
+  --color-bg-dark: #0a0a0a;
+  --color-bg-card: #121212;
+  --color-bg-card-hover: #1a1a1a;
+
+  --color-primary: #00ff9d;
+  /* Neon Green */
+  --color-primary-dark: #00cc7d;
+  --color-secondary: #f9e000;
+  /* Electric Yellow */
+  --color-accent: #ff0055;
+  /* Cyber Red */
+  --color-purple: #a855f7;
+
+  --color-text-main: #f0f0f0;
+  --color-text-muted: #a0a0a0;
+  --color-border: #333333;
+
+  /* Typography */
+  --font-heading: 'Orbitron', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+
+  /* Effects */
+  --glow-primary: 0 0 20px rgba(0, 255, 157, 0.3);
+  --glow-secondary: 0 0 20px rgba(249, 224, 0, 0.3);
+  --border-radius: 12px;
+  --border-radius-sm: 8px;
+
+  /* Gradients */
+  --gradient-primary: linear-gradient(135deg, #00ff9d 0%, #00d4ff 100%);
+  --gradient-accent: linear-gradient(135deg, #a855f7 0%, #ff0055 100%);
+}
