@@ -8,7 +8,7 @@ const Agenda = () => {
             phase: "Phase 1: Arrival & Setup",
             title: "Registration & Team Check-in",
             details: "Check IDs, assign team tables/IDs, distribute Wi-Fi credentials & swag. (45 min for 100-150 participants)",
-            team: "Kidus Guade, Estifanos FikereMariam, Mikiyas Alemu",
+            team: "Kidus Guade, Estifanos FikereMariam, Mikiyas Alemu, ALX Team",
             type: "logistics"
         },
         {
@@ -16,7 +16,7 @@ const Agenda = () => {
             phase: "Phase 1: Opening",
             title: "Opening Ceremony",
             details: "Welcome speech, 'Why Competitive Programming Matters', team introductions.",
-            team: "Host: Kibrnew Gedamu | Speaker: Abenezer Mulugeta",
+            team: "Host: Amanuel Abel | Speaker: Abenezer Mulugeta | ALX Team",
             type: "ceremony"
         },
         {
@@ -24,7 +24,7 @@ const Agenda = () => {
             phase: "Phase 2: Technical Prep",
             title: "Technical Orientation & Rules",
             details: "Grading system explanation (Domjudge/HackerRank), plagiarism & AI rules, frozen scoreboard logic.",
-            team: "Solomon Abate, Abenezer Workneh",
+            team: "Solomon Abate, Abenezer Workneh, ALX Team",
             type: "technical"
         },
         {
@@ -32,7 +32,7 @@ const Agenda = () => {
             phase: "Phase 2: Technical Prep",
             title: "Practice Round (Mock Contest)",
             details: "25-minute ultra-easy problem to ensure every team can submit code successfully.",
-            team: "All Organizers (floor support)",
+            team: "All Organizers, ALX Team (floor support)",
             type: "technical"
         },
         {
@@ -40,7 +40,7 @@ const Agenda = () => {
             phase: "Phase 3: The Contest",
             title: "🚀 MAIN CONTEST (3 Hours)",
             details: "Live scoreboard projected. Strict exam conditions. Tech team resolves system issues only (no hints).",
-            team: "Proctors: Bisrat Ashagre, Ermias Ayele | Judges: Kibrnew, Solomon, Eyouel",
+            team: "Proctors: Bisrat Ashagre, Ermias Ayele, ALX Team | Judges: Kibrnew, Solomon, Eyouel",
             type: "contest"
         },
         {
@@ -48,7 +48,7 @@ const Agenda = () => {
             phase: "Phase 3: The Contest",
             title: "❄️ SCOREBOARD FREEZE",
             details: "Scoreboard frozen. Teams cannot see rank updates for the final hour to build suspense.",
-            team: "Tech Lead: Abenezer Workneh",
+            team: "Tech Lead: Abenezer Workneh | ALX Team",
             type: "contest"
         },
         {
@@ -56,7 +56,7 @@ const Agenda = () => {
             phase: "Phase 4: Break & Judging",
             title: "Lunch Break",
             details: "Food served, networking time. Judges finalize results and run plagiarism checks.",
-            team: "Logistics: Kidus Guade, Mikiyas Alemu | Judges: Kibrnew, Solomon, Eyouel",
+            team: "Logistics: Kidus Guade, Mikiyas Alemu, ALX Team | Judges: Kibrnew, Solomon, Eyouel",
             type: "break"
         },
         {
@@ -64,7 +64,7 @@ const Agenda = () => {
             phase: "Phase 5: Learning",
             title: "Winner Solution Presentations",
             details: "Top 3 teams present their solutions and approach to key problems.",
-            team: "Moderator: Kibrnew Gedamu",
+            team: "Moderator: Amanuel Abel | ALX Team",
             type: "education"
         },
         {
@@ -72,7 +72,7 @@ const Agenda = () => {
             phase: "Phase 5: Learning",
             title: "Upsolve Session (Masterclass)",
             details: "Walkthrough of the hardest problems: brute force vs. optimized solutions, Q&A on algorithms.",
-            team: "Reviewers: Eyouel Melkamu, Nardos Wehabe, Solomon Abate",
+            team: "Reviewers: Eyouel Melkamu, Nardos Wehabe, Solomon Abate, ALX Team",
             type: "education"
         },
         {
@@ -80,7 +80,7 @@ const Agenda = () => {
             phase: "Phase 6: Closing",
             title: "Awards & Closing Ceremony",
             details: "Acknowledgments, winner announcements (Open Division first, then Elite), prize distribution.",
-            team: "Host: Kibrnew Gedamu | Awards: Abenezer Mulugeta",
+            team: "Host: Amanuel Abel | Awards: Abenezer Mulugeta | ALX Team",
             type: "ceremony"
         },
         {
@@ -88,7 +88,7 @@ const Agenda = () => {
             phase: "Phase 6: Closing",
             title: "Community Photos & Networking",
             details: "Group photos, Telegram channel promotion, final networking.",
-            team: "All Organizers",
+            team: "All Organizers, ALX Team",
             type: "networking"
         },
         {
@@ -96,7 +96,7 @@ const Agenda = () => {
             phase: "Phase 6: Closing",
             title: "Venue Clear Out",
             details: "Participants departure, equipment pack-up.",
-            team: "All Organizers",
+            team: "All Organizers, ALX Team",
             type: "logistics"
         }
     ];
