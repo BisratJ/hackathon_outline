@@ -32,7 +32,7 @@ const Agenda = () => {
             phase: "Phase 2: Panel Discussion",
             title: "Panel Discussion - Sharing Experiences",
             details: "Quick panel discussion on competitive programming experiences and insights.",
-            team: "Panelists: Amanuel Abel, Nardos Wehabe | ALX Team",
+            team: "Panelists: Amanuel Abel, Nardos Wehabe",
             type: "technical"
         },
         {
