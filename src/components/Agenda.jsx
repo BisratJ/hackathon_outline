@@ -24,7 +24,7 @@ const Agenda = () => {
             phase: "Phase 2: Technical Prep",
             title: "Technical Orientation & Rules",
             details: "Grading system explanation (Domjudge/HackerRank), plagiarism & AI rules, frozen scoreboard logic.",
-            team: "Ermias Ayele, Abenezer Workneh, ALX Team",
+            team: "Abenezer Workneh, ALX Team",
             type: "technical"
         },
         {
@@ -40,7 +40,7 @@ const Agenda = () => {
             phase: "Phase 3: The Contest",
             title: "🚀 MAIN CONTEST (3 Hours)",
             details: "Live scoreboard projected. Strict exam conditions. Tech team resolves system issues only (no hints).",
-            team: "Proctors: Bisrat Ashagre, Ermias Ayele, ALX Team | Judges: Eyouel Melkamu, Nardos Wehabe, Ermias Ayele",
+            team: "Proctors: Bisrat Ashagre, ALX Team | Judges: Eyouel Melkamu, Nardos Wehabe",
             type: "contest"
         },
         {
@@ -56,7 +56,7 @@ const Agenda = () => {
             phase: "Phase 4: Break & Judging",
             title: "Lunch Break",
             details: "Food served, networking time. Judges finalize results and run plagiarism checks.",
-            team: "Logistics: Kidus Guade, Mikiyas Alemu, Abenezer Workneh, Kibrnew Gedamu, Solomon Abate, ALX Team | Judges: Eyouel Melkamu, Nardos Wehabe, Ermias Ayele",
+            team: "Logistics: Kidus Guade, Mikiyas Alemu, Abenezer Workneh, Kibrnew Gedamu, Solomon Abate, ALX Team | Judges: Eyouel Melkamu, Nardos Wehabe",
             type: "break"
         },
         {
@@ -72,7 +72,7 @@ const Agenda = () => {
             phase: "Phase 5: Learning",
             title: "Upsolve Session for Unsolved Problems",
             details: "Walkthrough of the hardest problems: brute force vs. optimized solutions, Q&A on algorithms.",
-            team: "Reviewers: Eyouel Melkamu, Nardos Wehabe, Solomon Abate, Ermias Ayele (Problem Writer), ALX Team",
+            team: "Reviewers: Eyouel Melkamu, Nardos Wehabe, Solomon Abate, ALX Team",
             type: "education"
         },
         {
