@@ -71,7 +71,7 @@ const Agenda = () => {
             time: "2:00 PM – 2:30 PM",
             phase: "Phase 6: Closing",
             title: "Award Ceremony",
-            details: "Acknowledgments, winner announcements (Open Division first, then Elite), prize distribution.",
+            details: "Acknowledgments, winner announcements, prize distribution.",
             team: "Host: Amanuel Abel | Awards: Abenezer Mulugeta | ALX Team",
             type: "ceremony"
         },
