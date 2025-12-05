@@ -49,7 +49,7 @@ const Hero = () => {
                         </div>
                         <div className="detail-text">
                             <span className="label">Time</span>
-                            <span className="value">9:00 AM – 5:00 PM</span>
+                            <span className="value">8:30 AM – 3:30 PM</span>
                         </div>
                     </div>
                 </div>

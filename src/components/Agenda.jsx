@@ -4,15 +4,15 @@ import './Agenda.css';
 const Agenda = () => {
     const schedule = [
         {
-            time: "9:00 AM – 9:45 AM",
+            time: "8:30 AM – 9:00 AM",
             phase: "Phase 1: Arrival & Setup",
-            title: "Registration & Team Check-in",
-            details: "Check IDs, assign team tables/IDs, distribute Wi-Fi credentials & swag. (45 min for 100-150 participants)",
+            title: "Team Check-in",
+            details: "Check IDs, assign team tables/IDs, distribute Wi-Fi credentials & swag.",
             team: "Solomon Abate, Estifanos FikereMariam, Mikiyas Alemu, ALX Team",
             type: "logistics"
         },
         {
-            time: "9:45 AM – 10:15 AM",
+            time: "9:00 AM – 9:15 AM",
             phase: "Phase 1: Opening",
             title: "Opening Ceremony",
             details: "Welcome speech, 'Why Competitive Programming Matters', team introductions.",
@@ -20,7 +20,7 @@ const Agenda = () => {
             type: "ceremony"
         },
         {
-            time: "10:15 AM – 10:35 AM",
+            time: "9:15 AM – 9:30 AM",
             phase: "Phase 2: Technical Prep",
             title: "Technical Orientation & Rules",
             details: "Grading system explanation (Domjudge/HackerRank), plagiarism & AI rules, frozen scoreboard logic.",
@@ -28,31 +28,23 @@ const Agenda = () => {
             type: "technical"
         },
         {
-            time: "10:35 AM – 11:00 AM",
-            phase: "Phase 2: Panel Discussion",
-            title: "Panel Discussion - Sharing Experiences",
-            details: "Quick panel discussion on competitive programming experiences and insights.",
-            team: "Panelists: Amanuel Abel, Nardos Wehabe",
-            type: "technical"
-        },
-        {
-            time: "11:00 AM – 2:00 PM",
+            time: "9:30 AM – 12:45 PM",
             phase: "Phase 3: The Contest",
-            title: "🚀 MAIN CONTEST (3 Hours)",
+            title: "🚀 MAIN CONTEST (3 Hours 15 Minutes)",
             details: "Live scoreboard projected. Strict exam conditions. Tech team resolves system issues only (no hints).",
             team: "Proctors: Bisrat Ashagre, ALX Team | Judges: Eyouel Melkamu, Nardos Wehabe",
             type: "contest"
         },
         {
-            time: "1:00 PM",
+            time: "12:15 PM",
             phase: "Phase 3: The Contest",
             title: "❄️ SCOREBOARD FREEZE",
-            details: "Scoreboard frozen. Teams cannot see rank updates for the final hour to build suspense.",
+            details: "Scoreboard frozen. Teams cannot see rank updates for the final 30 minutes to build suspense.",
             team: "Tech Lead: Abenezer Workneh | ALX Team",
             type: "contest"
         },
         {
-            time: "2:00 PM – 3:00 PM",
+            time: "12:45 PM – 1:05 PM",
             phase: "Phase 4: Break & Judging",
             title: "Lunch Break",
             details: "Food served, networking time. Judges finalize results and run plagiarism checks.",
@@ -60,39 +52,39 @@ const Agenda = () => {
             type: "break"
         },
         {
-            time: "3:00 PM – 3:30 PM",
+            time: "1:05 PM – 1:25 PM",
             phase: "Phase 5: Learning",
-            title: "Solutions By First Solve",
-            details: "Top 3 teams present their solutions and approach to key problems.",
-            team: "Moderator: Amanuel Abel | ALX Team",
+            title: "Panel Discussion & Experience Sharing",
+            details: "Quick panel discussion on competitive programming experiences and insights.",
+            team: "Panelists: Amanuel Abel, Nardos Wehabe",
             type: "education"
         },
         {
-            time: "3:30 PM – 4:00 PM",
+            time: "1:30 PM – 2:00 PM",
             phase: "Phase 5: Learning",
-            title: "Upsolve Session for Unsolved Problems",
-            details: "Walkthrough of the hardest problems: brute force vs. optimized solutions, Q&A on algorithms.",
-            team: "Reviewers: Eyouel Melkamu, Nardos Wehabe, Solomon Abate, ALX Team",
+            title: "Solutions By First Solvers & Upsolving",
+            details: "Top teams present their solutions. Walkthrough of the hardest problems with optimized approaches.",
+            team: "Moderator: Amanuel Abel | Reviewers: Eyouel Melkamu, Nardos Wehabe, Solomon Abate, ALX Team",
             type: "education"
         },
         {
-            time: "4:00 PM – 4:30 PM",
+            time: "2:00 PM – 2:30 PM",
             phase: "Phase 6: Closing",
-            title: "Awards & Closing Ceremony",
+            title: "Award Ceremony",
             details: "Acknowledgments, winner announcements (Open Division first, then Elite), prize distribution.",
             team: "Host: Amanuel Abel | Awards: Abenezer Mulugeta | ALX Team",
             type: "ceremony"
         },
         {
-            time: "4:30 PM – 4:45 PM",
+            time: "2:30 PM – 3:00 PM",
             phase: "Phase 6: Closing",
-            title: "Community Photos & Networking",
+            title: "Photoshoot Time & Networking",
             details: "Group photos, Telegram channel promotion, final networking.",
             team: "All Organizers, ALX Team",
             type: "networking"
         },
         {
-            time: "4:45 PM – 5:00 PM",
+            time: "3:00 PM – 3:30 PM",
             phase: "Phase 6: Closing",
             title: "Venue Clear Out",
             details: "Participants departure, equipment pack-up.",
